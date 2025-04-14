@@ -1,5 +1,5 @@
 # Netflix
-**Description:**   A concise exploratory data analysis of Netflix's movie and TV show catalog to uncover insights about content types, genres, ratings, and global production trends using Python and visualization libraries.
+A concise exploratory data analysis of Netflix's movie and TV show catalog to uncover insights about content types, genres, ratings, and global production trends using Python and visualization libraries.
 # Netflix Titles EDA
 
 This project performs an exploratory data analysis (EDA) on Netflix’s catalog of movies and TV shows using Python. It aims to uncover insights about the platform's content distribution by type, genre, rating, release year, and country.
